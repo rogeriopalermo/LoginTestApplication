@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginTestApplication</string>
+    <string name="loginText">Página de Login</string>
+    <string name="loginHint">Digite seu login</string>
+    <string name="passwordHint">Digite sua senha</string>
+    <string name="buttonLogin">Logar</string>
+    <string name="buttonCancel">Cancelar</string>
+</resources>
