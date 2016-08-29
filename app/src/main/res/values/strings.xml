@@ -5,4 +5,7 @@
     <string name="passwordHint">Digite sua senha</string>
     <string name="buttonLogin">Logar</string>
     <string name="buttonCancel">Cancelar</string>
+    <string name="invalidLoginFirstAttempt">Login inválido - Primeira tentativa</string>
+    <string name="invalidLoginSecondAttempt">Login inválido - Segunda tentativa</string>
+    <string name="invalidLoginLastAttempt">Login inválido - Terceira tentativa</string>
 </resources>

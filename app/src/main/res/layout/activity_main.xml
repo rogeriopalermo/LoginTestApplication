@@ -30,6 +30,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:id="@+id/main_password"
         android:hint="@string/passwordHint"
         android:textSize="20sp"
         android:paddingTop="10dp"/>
